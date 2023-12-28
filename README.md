@@ -7,11 +7,7 @@ Welcome to the Banker's Algorithm Simulation repository. This project provides a
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Using the Simulation](#using-the-simulation)
-- [Technology Stack](#technology-stack)
-- [Contributing](#contributing)
-- [License](#license)
+- [Live Demo](#livedemo).
 
 ## Introduction
 
@@ -25,3 +21,5 @@ The Banker's Algorithm is an essential part of modern operating systems, ensurin
 - Visualization of the Banker's Algorithm in action.
 - Error handling for invalid input scenarios.
 
+## Live Demo
+https://bankers-algorithm.netlify.app/
